@@ -6,6 +6,7 @@ https://developer.fedoraproject.org/tech/database/mongodb/about.html
 However it essentially renders down to (on Fedora)
 
 dnf install mongodb mongodb-server
+
 service mongod start
 
 Ensure your system has a standard GO installation.
