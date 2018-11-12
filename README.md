@@ -24,3 +24,4 @@ Tests are run with a simple "go test -v" command.
 You can view the output of the tests in graphical format by running:
 
 $GOPATH/bin/goconvey
+ 
