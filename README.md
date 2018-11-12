@@ -15,7 +15,9 @@ You'll also need a few other additional open source products to run
 this program. Here are the various go get instructions:
 
 go get gopkg.in/mgo.v2
+
 go get github.com/smartystreets/goconvey
+
 go get github.com/gorilla/mux
 
 Build this project with a simple "go build" command.
